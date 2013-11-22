@@ -1,3 +1,35 @@
 body {
-  /* rules go here */
+  margin: 0px;
+}
+img {
+  height: 95px;
+  width: 269px;
+  padding-top: 112px;
+}
+
+.text {
+  height: 2.25em;
+  width: 75%;
+}
+
+.image {
+  padding-top: 150px;
+}
+
+.searchbox {
+  align: center;
+}
+
+.search {
+  margin-top: 15px;
+  height: 25px;
+  width:200px;
+}
+
+.topbar {
+  height:50px;
+  width:100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: blue;
 }
