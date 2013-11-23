@@ -1,3 +1,50 @@
 body{
   /* rules go here */
 }
+
+.topbar{
+  height: 80px;
+  width: 100%;
+  margin-top:5px;
+  background-color: red;
+}
+
+.tagline {
+  height:200px;
+  width: 100%;
+  margin-top: 5px;
+  background-color: yellow;
+
+}
+
+.imagetrial {
+  
+  height: 450px;
+  width: 100%;
+  margin-top:25px;
+}
+
+.image {
+  height:400px;
+  width: 49%;
+  margin-top: 5px;
+  background-color: black;
+  margin-right:5px;
+  float: left;
+}
+
+.trial {
+  height:400px;
+  width: 49%;
+  margin-top: 5px;
+  margin-left:5px;
+  background-color: blue;
+  float: right;
+}
+
+.bottombar {
+  height:210px;
+  width: 100%;
+  margin-top: 5px;
+  background-color: yellow;
+}
